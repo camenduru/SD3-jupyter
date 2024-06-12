@@ -22,7 +22,7 @@ https://arxiv.org/abs/2403.03206 <br />
 https://stability.ai/news/stable-diffusion-3-medium <br />
 
 ### 🖼 Output
-
+![Screenshot 2024-06-12 222654](https://github.com/camenduru/SD3-jupyter/assets/54370274/f43adf7c-b194-4847-9d37-e5880bbdf964)
 
 ### 🏢 Sponsor
 https://runpod.io
