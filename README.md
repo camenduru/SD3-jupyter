@@ -15,6 +15,7 @@ ComfyUI = TotoroUI (because ComfyUI is banned on Colab 😋) <br />
 https://github.com/comfyanonymous/ComfyUI <br />
 
 ### 📄 Paper
+https://stability.ai/news/stable-diffusion-3-research-paper <br />
 https://arxiv.org/abs/2403.03206 <br />
 
 ### 🌐 Page
